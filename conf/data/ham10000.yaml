@@ -1,0 +1,8 @@
+name: ham10000
+
+data_root: /home/work/Workspaces/yunjae_heo/LBA_agent_gist/dataset/ham10000
+batch_size: 128
+epoch: 370
+num_classes: 7
+num_workers: 4
+save_path: /home/work/Workspaces/yunjae_heo/LBA_agent_gist/checkpoints/ham10000
